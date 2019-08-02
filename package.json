@@ -1,0 +1,12 @@
+{
+  "name": "projet",
+  "version": "0.1.0",
+  "description": "Projet Discord",
+  "main": "index.js",
+  "repository": "https://github.com/Kutsugori/Kutsugori.git",
+  "author": "DrooGamer <j.louma@orange.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
