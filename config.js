@@ -1,2 +1,2 @@
-exports.TOKEN = "NTE2NjU3NTMwNTQ2NDIxNzYy.XURynw.SSROtWwwuXdIDM_ht-e-6Yt-D4w";
+exports.TOKEN = "NTE2NjU3NTMwNTQ2NDIxNzYy.XUR69w.qvt5QlHdmXe_6rP9k2MoMa76aOo";
 exports.PREFIX = ">";
