@@ -24,11 +24,10 @@
         "warn",
         "double"
       ],
-      "indent": [
-        "error",
-        2
-      ],
-      "curly": "off"
+      "indent": "off",
+      "space-before-blocks": "off",
+      "padded-blocks":"off",
+      "no-trailing-spaces": "off"
     }
   }
 }
